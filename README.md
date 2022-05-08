@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FaicFaical
+- 👀 I’m interested in SAP PRINCIPALLY
+- 🌱 I’m currently learning SAP s 4/hanna
+- 📫 How to reach me : by github it's good until now
